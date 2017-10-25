@@ -1,0 +1,32 @@
+.container { 
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+}
+.orange {
+	background-color: #E4A856;
+	height: 50%;
+	width: 50%;
+}
+.green {
+	background-color: #43B213;
+	height: 50%;
+	width: 50%;
+}
+.red {
+	background-color: #D63C35;
+	height: 50vh;
+	width: 50vw;
+}
+
+.blue {
+	background-color: #1D5CC5;
+	height: 30vh;
+	width: 100vw;
+}
+	
+
+
+
+
