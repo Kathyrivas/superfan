@@ -1,0 +1,45 @@
+.container { 
+	height:20vh;
+	width:100vw;
+	
+}
+
+.container1 {
+	height: 70vh;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;	
+}
+
+.green {
+	background-color:#008000;
+	height:70vh;
+	width:50vw;
+}
+
+.lightgreen{
+	background-color:#7AE310;
+	height:70vh;
+	width:50vw;
+}
+
+
+.red{
+	background-color:#A70909;
+	height:20vh;
+	width:100vw;
+}
+
+.orange{
+	background-color:#EDBC1A;
+	height:10vh;
+	width:60vh;
+}
+
+.red2{
+	background-color:#950C07;
+	height:20vh;
+	width:100vw;
+} 
+
+@media screen and (max-width:800px){
